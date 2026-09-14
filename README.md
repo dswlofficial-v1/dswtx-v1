@@ -1,7 +1,7 @@
 # 🚀 DSWTX
 
 <p align="center">
-  <strong>DSWTX Android</strong>
+  <strong>DSWTX Networks</strong>
 </p>
 
 <p align="center">
